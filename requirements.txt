@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-multipart
+torch
+diffusers
+transformers
+accelerate
+scipy
+ftfy
+regex
+tqdm
+git+https://github.com/openai/CLIP.git
+ultralytics
+opencv-python-headless
+Pillow
+numpy   
