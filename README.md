@@ -71,8 +71,8 @@ docker run -p 8000:8000 ai-pipeline
 
 1. **Clone & Install Dependencies**
 ```bash
-git clone [https://github.com/yourusername/ai-pipeline.git](https://github.com/yourusername/ai-pipeline.git)
-cd ai-pipeline
+git clone https://github.com/karanpate1/Multi-Model-Generation-and-Analysis-Pipeline.git
+cd Multi-Model-Generation-and-Analysis-Pipeline
 pip install -r requirements.txt
 
 ```
@@ -81,7 +81,7 @@ pip install -r requirements.txt
 2. **Environment Setup**
 * **GPU Users:** Ensure `torch` is installed with CUDA support:
 ```bash
-pip install torch torchvision --index-url [https://download.pytorch.org/whl/cu118](https://download.pytorch.org/whl/cu118)
+pip install torch torchvision --index-url [https://download.pytorch.org/whl/cu130](https://download.pytorch.org/whl/cu130)
 
 ```
 
